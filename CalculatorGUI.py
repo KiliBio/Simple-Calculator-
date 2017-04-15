@@ -1,6 +1,6 @@
 #!/usr/bin/python
 ''' Simple Calculator with the Tkinter GUI'''
-'''Project by Kilian Zuchan'''
+'''Project by KiliBio'''
 
 
 from tkinter import *
